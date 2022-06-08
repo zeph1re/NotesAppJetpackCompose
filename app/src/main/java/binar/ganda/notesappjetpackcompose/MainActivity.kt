@@ -98,7 +98,7 @@ fun ListNotes(notes: List<Notes>){
 @Preview (showBackground = true, showSystemUi = true)
 @Composable
 fun PreviewListNotes() {
-    NotesAppjetpackcomposeTheme() {
+    NotesAppjetpackcomposeTheme {
         ListNotes(NotesData.notesSample)
     }
 }

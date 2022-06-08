@@ -2,5 +2,4 @@
     <string name="app_name">NotesAppjetpackcompose</string>
     <string name="title_activity_register">Register</string>
     <string name="title_activity_login">Login</string>
-    <string name="title_activity_home">Home</string>
 </resources>

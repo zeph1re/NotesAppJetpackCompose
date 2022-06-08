@@ -2,7 +2,6 @@ package binar.ganda.notesappjetpackcompose
 
 import android.content.Intent
 import android.os.Bundle
-import android.widget.EditText
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
 import androidx.compose.foundation.layout.*
